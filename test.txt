@@ -1,6 +1,8 @@
 Welcome
 Hi
 Hello
+Good morning
+good afternoon
 
 
 
